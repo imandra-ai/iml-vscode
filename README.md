@@ -1,5 +1,4 @@
-# Imanda IDE for VS Code
-
+![Aesthetic Integration](https://storage.googleapis.com/imandra-assets/images/github/imandra_ide_vsc_head.svg)
 ---
 Welcome to the Imandra IDE VS Code Plugin Repo
 
